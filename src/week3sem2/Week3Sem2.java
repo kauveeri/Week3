@@ -18,6 +18,7 @@ public class Week3Sem2 {
         
         
         System.out.println("Learning github");
+         System.out.println("Learning github");
     }
     
 }
